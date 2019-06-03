@@ -1,3 +1,0 @@
-Hi all
-it's test page
-Что-то осмыцсленное is coming soon...
