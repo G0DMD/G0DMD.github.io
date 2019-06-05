@@ -20,10 +20,11 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {    
+h1 { 
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     text-align: center;
+    }
 h2 {    
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
