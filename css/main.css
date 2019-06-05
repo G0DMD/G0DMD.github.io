@@ -19,10 +19,10 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    text-align: center;
-    font-size: 2em;
+h1 {    
+    font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-align: center;
 }
 p {
     font-size: 1.5em;
