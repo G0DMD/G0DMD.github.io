@@ -43,6 +43,10 @@ p {
     color: #333;
 }
 
+p.p1 {
+    text-align: center;  
+}
+
 footer {
     border-top: 2px solid #d5d5d5;
     font-size: .8em;
