@@ -32,7 +32,7 @@ h1 {
     }
 
 h2 {    
-    font-size: 1.4em;
+    font-size: 1.3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     text-align: center;    
 }
@@ -44,6 +44,8 @@ p {
 }
 
 p.p1 {
+    font-size: 1.2em;
+    line-height: 1.4em;
     text-align: center;  
 }
 
